@@ -1,5 +1,5 @@
-#labels Phase-Deploy
-#List of requeriments for use SyncNotes app and setps for install and configure it.
+#labels Phase-Deploy,hghghgh
+#List of requeriments for use syncnotes app and setps for install and configure it.
 
 = Introduction =
 
