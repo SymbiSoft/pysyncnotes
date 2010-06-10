@@ -1,0 +1,10 @@
+ 
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifIconescolors1
+	{
+	EMbmIconescolors1Fitblau = 16384,
+	EMbmIconescolors1Fitgroc = 16386,
+	EMbmIconescolors1Fitverd = 16388,
+	EMbmIconescolors1Fitvermell = 16390,
+	EMbmIconescolors1LastElement
+	};
